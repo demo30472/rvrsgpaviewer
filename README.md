@@ -8,4 +8,5 @@ It takes rvr&amp;jc college register number and gives sgpa and cgpa for y16 and 
 
 
 # Example Image
-![alt text](C:\\Users\\manikanta\\Pictures\\Capture.png 'Example Image')
+![Capture](https://user-images.githubusercontent.com/51502744/59155905-3768c100-8ab0-11e9-99bf-17b393027d42.PNG)
+
