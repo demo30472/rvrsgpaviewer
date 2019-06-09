@@ -5,8 +5,9 @@
 1. Windows OS in your pc.
 2. Chrome browser.
 # Usage
-1. First you have to download zip by clicking on clone or download file and extract it.
-2. In this rvrsgpaviewer-master folder there is a file named rvrsgpa.exe double click on this exe file and type regdno and press enter.
+1. First you have to download zip by clicking on (clone or download) or clicking [this](https://github.com/demo30472/rvrsgpaviewer/archive/master.zip) link.
+2. After downloading this zip file and extract this zip file.
+3. In this rvrsgpaviewer-master folder there is a file named rvrsgpa.exe double click on this exe file and type regdno and press enter.
 
 
 # Example Image
