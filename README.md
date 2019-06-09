@@ -1,5 +1,5 @@
 # RVR&JC SGPA AND CGPA VIEWER
-* It takes rvr&amp;jc college register number and gives sgpa and cgpa for y16 and y17 students who are attempted all exams.
+* For rvr&amp;jc college students it takes register number and gives sgpa and cgpa for y16 and y17 students who are attempted all exams.
 
 # Requirements
 1. Windows OS in your pc.
